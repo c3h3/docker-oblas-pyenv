@@ -1,5 +1,5 @@
 
-FROM c3h3/openblas
+FROM c3h3/openblas:u1404
 
 ENV HOME /root
 ENV PYENVPATH $HOME/.pyenv
